@@ -12,6 +12,7 @@ This project is using for Git Basic command practice
 6. Push code repository to remove Github repository (Need create a Github repository)
 7. Update Readme on Github and commit.
 8. Synchronize latest code on local.
+9. Cry
 
 # Requirements
 
